@@ -1,7 +1,7 @@
 <?php 
 echo "
 
-Halo selamat datang di Web Server Kami
+Halo selamat datang di Web Server Kami, Semoga semuanya seha😁🙏🙏
 
 ";
 ?>
